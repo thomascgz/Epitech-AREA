@@ -1,0 +1,108 @@
+{
+   "client":{
+      "host":"10.101.53.35"
+   },
+   "server":{
+      "current_time":1531680780,
+      "services":[
+         {
+            "name":"Cryptomoney",
+            "actions":[
+               {
+                  "name":"Bitcoin_value",
+                  "description":"Gives the BTC change value in $"
+               },
+               {
+                  "name":"Etherum_value",
+                  "description":"Gives the ETH change value in $"
+               }
+            ],
+            "reactions":[
+               {
+                  "name":"Bitcoin_sms",
+                  "description":"Sends the BTC value in $ by sms"
+               },
+               {
+                  "name":"Etherum_sms",
+                  "description":"Sends the ETH value in $ by sms"
+               }
+            ]
+         },
+         {
+            "name":"Weather",
+            "actions":[
+               {
+                  "name":"Temperature_Paris",
+                  "description":"Detects the changing temperature in Paris"
+               }
+            ],
+            "reactions":[
+               {
+                  "name":"Temperature_Paris_Mail",
+                  "description":"Sends a mail with the Paris temperature"
+               }
+            ]
+         },
+         {
+            "name":"Jokes",
+            "reactions":[
+               {
+                  "name":"Joke_sender",
+                  "description":"Displays a random joke in the screen"
+               }
+            ]
+         },
+         {
+            "name":"Meme",
+            "reactions":[
+               {
+                  "name":"Meme_sender",
+                  "description":"Sends a random meme by e-mail"
+               }
+            ]
+         },
+         {
+            "name":"NASA",
+            "actions":[
+               {
+                  "name":"NASA_picture_of_the_day",
+                  "description":"Detects when the daily picture NASA appears"
+               }
+            ],
+            "reactions":[
+               {
+                  "name":"NASA_picture_of_the_day_Mail",
+                  "description":"Sends a mail with the daily NASA picture"
+               }
+            ]
+         },
+         {
+            "name":"SMS",
+            "reactions":[
+               {
+                  "name":"Cute_sms_sender",
+                  "description":"Sends a sms with only the truth"
+               }
+            ]
+         },
+         {
+            "name":"Timer",
+            "actions":[
+               {
+                  "name":"Timer",
+                  "description":"Sets a timer"
+               }
+            ]
+         },
+         {
+            "name":"Covid",
+            "actions":[
+               {
+                  "name":"Covid_counter",
+                  "description":"Gives the covid cases in real time"
+               }
+            ]
+         }
+      ]
+   }
+}

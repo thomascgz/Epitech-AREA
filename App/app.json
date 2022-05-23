@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Area",
+    "slug": "Area",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.area2022.Area"
+    }
+  },
+  "name": "Area"
+}

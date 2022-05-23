@@ -1,0 +1,29 @@
+# docker-compose.yml
+version: '3'
+
+services:
+  server:
+    build:
+      context: ./Server
+      dockerfile: ./Dockerfile
+    image: "area-server"
+    ports:
+      - "8080:8080"
+  mobile:
+    build:
+      context: ./App
+      dockerfile: ./Dockerfile
+    image: "area-mobile"
+    ports:
+      - "19000:19000"
+    depends_on:
+      - server
+  web:
+    build:
+      context: ./Web
+      dockerfile: ./Dockerfile
+    image: "area-web"
+    ports:
+      - "8081:3000"
+    depends_on:
+      - server

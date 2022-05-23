@@ -1,0 +1,47 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Area server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechPromo2024/B-YEP-500-PAR-5-1-area-riyad.hamdaoui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechPromo2024/B-YEP-500-PAR-5-1-area-riyad.hamdaoui/issues"
+  },
+  "homepage": "https://github.com/EpitechPromo2024/B-YEP-500-PAR-5-1-area-riyad.hamdaoui.git#readme",
+  "dependencies": {
+    "allocine-api": "^0.1.9",
+    "axios": "^0.24.0",
+    "axios-oauth-1.0a": "^0.3.4",
+    "base-64": "^1.0.0",
+    "blagues-api": "^2.1.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.1",
+    "firebase": "^8.10.0",
+    "firebase-admin": "^10.0.2",
+    "googleapis": "^39.2.0",
+    "ip": "^1.1.5",
+    "mysql": "^2.18.1",
+    "newsapi": "^2.4.1",
+    "node-cron": "^3.0.0",
+    "node-outlook": "^1.1.8",
+    "nodemailer": "^6.7.2",
+    "oauth": "^0.9.15",
+    "pg-promise": "^10.11.1",
+    "query-string": "^7.1.1",
+    "request": "^2.88.2",
+    "request-ip": "^2.1.3",
+    "spotify-web-api-js": "^1.5.2",
+    "twilio": "^3.75.0",
+    "twitter": "^1.7.1",
+    "twitter-lite": "^1.1.0"
+  }
+}

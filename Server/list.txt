@@ -1,0 +1,47 @@
+Twitter :
+  API Key : GK8HE16UXbkCk4FLrlB3JsIul
+  API Key Secret : ubvFRmU6xPfegdEuPLEJ2k3LaRLM2cLX0H7B3VPwrLZq0tI6s3
+  Bearer Token : AAAAAAAAAAAAAAAAAAAAAPUMZgEAAAAATQYnfGiIackfZqFdTMXlXL%2BtHJc%3DdBTS4fHuv3yuWO29lmOoMUP01YMf1y1MZBWAjqbYMkJcCwosYc
+  Access Token : 724036261753851904-q8p1O6t7wkGn5yGfPqr9d9J7WJ8qTFx
+  Access Token Secret : yy8NxJgqhSknvDunnL4DDhuYYSJn8jeh6yCoOlb1cg2g8
+  Client ID : d1h2eWxuZ1pBOFZzb25lOVoxNS06MTpjaQ
+  Client ID Secret : RArH_8EPjoH3mAmsaMbJfX7lir6xy3B2Pv0FHf8CLEfY-YhYsW
+
+Spotify :
+  Client ID : 1d69336290dd4a1485dab215089ec90e
+  Client Secret : 74d680ed515a4ca8bfb035da002438c8
+
+Firebase :
+  id : 1:897118648810:web:eba02d474cedc1f2591a93
+
+Crypto :
+  API Key : 2B605653-93E8-4E18-8AF2-D46D0A84AE68
+
+Yt :
+  API Key : AIzaSyBHAK543EExUP8BYlaOXIAwTcLqeL1SDaw
+
+Twitch :
+  Client ID : 50o2qoadf5k7x8vw1ien8fc2w9ztnr
+  Secret client : xp2iukelbk8r01ffwz0ma1vame3725
+
+Blague :
+  Key : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMzE3NDM0MjQ0NDYyODA0OTkzIiwibGltaXQiOjEwMCwia2V5IjoiMnVSZ093bHA3dlFkTWFKODBkWm13N2pWTWJkWEY1cDN1Tm1zbUR3bUdqd1NoT09yNTgiLCJjcmVhdGVkX2F0IjoiMjAyMi0wMi0yOFQxNTo0MDozNiswMDowMCIsImlhdCI6MTY0NjA2MjgzNn0.W6ys9LysXOY2WnuL71WdH5BOwYwddgvmxSf7x3yN2gg
+
+SMS :
+  Account SID : ACfa2868a768cf82e1bc3def2b93ab757f
+  Auth Token : cbd678cf369be248690e91013384e0af
+
+Microsoft :
+  ID d'application (client) : 431beecd-96a3-47d5-92f3-1054ba1ba3a0
+  ID de l'objet : 392e8282-65ea-4318-92e7-8642db425207
+  ID de l'annuaire (locataire) : 901cb4ca-b862-4029-9306-e5cd0f6d9f86
+  Client : 2jD7Q~EWnsY5T_cnfZJGk3sJqm9uV6wJnpOKv
+  Client Secret : acc7236b-54d0-42cf-b36d-45c4c724a2c0
+
+Gmail:
+  ID Client : 1009351600744-qthn2upour45a1l9o2c6u95bij80dmkm.apps.googleusercontent.com
+
+NASA :
+  API Key : Dcu6lm2vrHufpOo4e86oRPzHMNNVSRTUQAEjMaHe
+  Account Email : gakawet148@vapaka.com
+  Account ID : cd6beb2e-8ada-4199-a23b-47a90cd621e4
